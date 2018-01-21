@@ -2,7 +2,7 @@
 20/01/2018
 LCC Abraham Saul Sansoval Meneses
 Data Structures
-ClASS STACK
+CLASS STACK
 */
 
 #include <iostream>
