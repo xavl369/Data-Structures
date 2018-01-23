@@ -1,2 +1,0 @@
-# DataStructures
-C++ Data Structures
